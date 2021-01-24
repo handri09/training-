@@ -8,13 +8,13 @@ def print_hi(name):
     print(f'Hi, {name}!')
 
 def my_function(one, two,
-				three, four,
-				five, six):
+	            three, four,
+	            five, six):
 	print("Hello World")
 
 my_list = [1, 2,
-		   3, 4,
-		   5, 6]
+           3, 4,
+           5, 6]
 
 prin("Hello ", "Hi")
 
